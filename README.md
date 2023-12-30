@@ -7,6 +7,8 @@ Java application for managing staff salaries with salary increase and deductions
 - Option to view deductions report, including tax, medical aid, car allowance, UIF, and take-home pay.
 - Input validation to handle invalid user inputs.
 
+## Getting Started
+
 ### Enter employee details
 Enter the employee details when prompted.
 
