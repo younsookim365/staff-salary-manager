@@ -79,7 +79,7 @@ public class StaffSalaryManager {
         // Update the salary 
         employee.getUpdatedSalary();
         
-        System.out.println("INCREASE SALARY:      R " + formatAmount(employee.getEmpSalary()));
+        System.out.println("INCREASED SALARY:      R " + formatAmount(employee.getEmpSalary()));
         double increasedAmount = employee.getEmpSalary() - employee.getEmpSalary() / 1.10; 
         System.out.println("INCREASED AMOUNT:     R " + formatAmount(increasedAmount));
         System.out.println("************ ****************");
