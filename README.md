@@ -1,5 +1,5 @@
 # Staff Salary Manager
-This application calculates and displays increased salary after a 10% raise. It gives an option to view the deductions report, which includes tax (18%), medical aid (12.5%), car allowance (8%), UIF (2%), and take-home pay.
+This application calculates and displays increased salary after a 10% raise. It displays the employees details report. It gives an option to view the deductions report, which includes tax (18%), medical aid (12.5%), car allowance (8%), UIF (2%), and take-home pay.
 
 ## Features
 - Option to view deductions report.
