@@ -1,10 +1,8 @@
 # Staff Salary Manager
-Java application for managing staff salaries with salary increase and deductions reports.
+This application calculates and displays increased salary after a 10% raise. It gives an option to view the deductions report, which includes tax (18%), medical aid (12.5%), car allowance (8%), UIF (2%), and take-home pay.
 
 ## Features
-- Enter employee details including employee number, first name, surname, and initial salary.
-- Calculate and display increased salary after a 10% raise.
-- Option to view deductions report, including tax (18%), medical aid (12.5%), car allowance (8%), UIF (2%), and take-home pay.
+- Option to view deductions report.
 - Input validation to handle invalid user inputs.
 
 ## Getting Started
